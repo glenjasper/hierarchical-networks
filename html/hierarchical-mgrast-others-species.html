@@ -9,7 +9,7 @@
     <style type="text/css">
       path.arc {
         cursor: move;
-        fill: none; /*#fff*/ /*none: not rotate*/
+        fill: #fff; /*#fff | none: not rotate*/
         stroke: none;
         stroke-width: none;
       }
@@ -119,7 +119,7 @@
             .attr("dx", function(d) { return d.x < 180 ? 8 : -8; })
             .attr("dy", "1em") // .31em: Label position y
             //.attr("fill", "#000")
-            .style("fill", function(d) { return d.name.startsWith('Unassigned') ? "#ce2029" : "#000"; })
+            .style("fill", function(d) { return d.name.startsWith('Unassigned') ? "#f00000" : "#000"; })
             .attr("text-anchor", function(d) { return d.x < 180 ? "start" : "end"; })
             .attr("transform", function(d) { return d.x < 180 ? null : "rotate(180)"; })
             .text(function(d) { return d.name; });
