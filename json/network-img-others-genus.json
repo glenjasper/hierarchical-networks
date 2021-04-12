@@ -1,143 +1,11 @@
 {
    "name":"Fungi",
-   "size":5,
+   "size":6,
    "children":[
-      {
-         "name":"Microsporidia",
-         "size":4,
-         "children":[
-            {
-               "name":"Unassigned47",
-               "size":1,
-               "children":[
-                  {
-                     "name":"Unassigned39",
-                     "size":1,
-                     "children":[
-                        {
-                           "name":"Unassigned27",
-                           "size":1,
-                           "children":[
-                              {
-                                 "name":"Nematocida",
-                                 "size":1
-                              }
-                           ]
-                        }
-                     ]
-                  }
-               ]
-            },
-            {
-               "name":"Unassigned48",
-               "size":1,
-               "children":[
-                  {
-                     "name":"Unassigned41",
-                     "size":1,
-                     "children":[
-                        {
-                           "name":"Unikaryonidae",
-                           "size":1,
-                           "children":[
-                              {
-                                 "name":"Encephalitozoon",
-                                 "size":4
-                              }
-                           ]
-                        }
-                     ]
-                  }
-               ]
-            },
-            {
-               "name":"Unassigned50",
-               "size":1,
-               "children":[
-                  {
-                     "name":"Unassigned44",
-                     "size":1,
-                     "children":[
-                        {
-                           "name":"Nosematidae",
-                           "size":1,
-                           "children":[
-                              {
-                                 "name":"Nosema",
-                                 "size":1
-                              }
-                           ]
-                        }
-                     ]
-                  }
-               ]
-            },
-            {
-               "name":"Unassigned51",
-               "size":1,
-               "children":[
-                  {
-                     "name":"Unassigned45",
-                     "size":1,
-                     "children":[
-                        {
-                           "name":"Enterocytozoonidae",
-                           "size":1,
-                           "children":[
-                              {
-                                 "name":"Enterocytozoon",
-                                 "size":1
-                              }
-                           ]
-                        }
-                     ]
-                  }
-               ]
-            }
-         ]
-      },
       {
          "name":"Mucoromycota",
          "size":3,
          "children":[
-            {
-               "name":"Glomeromycetes",
-               "size":2,
-               "children":[
-                  {
-                     "name":"Diversisporales",
-                     "size":1,
-                     "children":[
-                        {
-                           "name":"Gigasporaceae",
-                           "size":1,
-                           "children":[
-                              {
-                                 "name":"Gigaspora",
-                                 "size":1
-                              }
-                           ]
-                        }
-                     ]
-                  },
-                  {
-                     "name":"Glomerales",
-                     "size":1,
-                     "children":[
-                        {
-                           "name":"Glomeraceae",
-                           "size":1,
-                           "children":[
-                              {
-                                 "name":"Rhizophagus",
-                                 "size":1
-                              }
-                           ]
-                        }
-                     ]
-                  }
-               ]
-            },
             {
                "name":"Mucoromycetes",
                "size":1,
@@ -147,35 +15,15 @@
                      "size":7,
                      "children":[
                         {
-                           "name":"Syncephalastraceae",
-                           "size":1,
-                           "children":[
-                              {
-                                 "name":"Syncephalastrum",
-                                 "size":1
-                              }
-                           ]
-                        },
-                        {
-                           "name":"Rhizopodaceae",
-                           "size":1,
-                           "children":[
-                              {
-                                 "name":"Rhizopus",
-                                 "size":1
-                              }
-                           ]
-                        },
-                        {
                            "name":"Cunninghamellaceae",
                            "size":2,
                            "children":[
                               {
-                                 "name":"Hesseltinella",
+                                 "name":"Absidia",
                                  "size":1
                               },
                               {
-                                 "name":"Absidia",
+                                 "name":"Hesseltinella",
                                  "size":1
                               }
                            ]
@@ -186,6 +34,16 @@
                            "children":[
                               {
                                  "name":"Backusella",
+                                 "size":1
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Lichtheimiaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Lichtheimia",
                                  "size":1
                               }
                            ]
@@ -211,11 +69,55 @@
                            ]
                         },
                         {
-                           "name":"Lichtheimiaceae",
+                           "name":"Rhizopodaceae",
                            "size":1,
                            "children":[
                               {
-                                 "name":"Lichtheimia",
+                                 "name":"Rhizopus",
+                                 "size":1
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Syncephalastraceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Syncephalastrum",
+                                 "size":1
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Kickxellomycetes",
+               "size":1,
+               "children":[
+                  {
+                     "name":"Kickxellales",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Kickxellaceae",
+                           "size":4,
+                           "children":[
+                              {
+                                 "name":"Coemansia",
+                                 "size":1
+                              },
+                              {
+                                 "name":"Linderina",
+                                 "size":1
+                              },
+                              {
+                                 "name":"Martensiomyces",
+                                 "size":1
+                              },
+                              {
+                                 "name":"Ramicandelaber",
                                  "size":1
                               }
                            ]
@@ -237,7 +139,7 @@
                            "size":2,
                            "children":[
                               {
-                                 "name":"Mortierella",
+                                 "name":"Linnemannia",
                                  "size":1
                               },
                               {
@@ -253,97 +155,33 @@
          ]
       },
       {
-         "name":"Zoopagomycota",
-         "size":4,
+         "name":"Blastocladiomycota",
+         "size":1,
          "children":[
             {
-               "name":"Entomophthoromycetes",
+               "name":"Blastocladiomycetes",
                "size":1,
                "children":[
                   {
-                     "name":"Entomophthorales",
-                     "size":1,
+                     "name":"Blastocladiales",
+                     "size":2,
                      "children":[
                         {
-                           "name":"Ancylistaceae",
+                           "name":"Blastocladiaceae",
                            "size":1,
                            "children":[
                               {
-                                 "name":"Conidiobolus",
-                                 "size":2
-                              }
-                           ]
-                        }
-                     ]
-                  }
-               ]
-            },
-            {
-               "name":"Kickxellomycetes",
-               "size":1,
-               "children":[
-                  {
-                     "name":"Kickxellales",
-                     "size":1,
-                     "children":[
-                        {
-                           "name":"Kickxellaceae",
-                           "size":3,
-                           "children":[
-                              {
-                                 "name":"Coemansia",
-                                 "size":1
-                              },
-                              {
-                                 "name":"Martensiomyces",
-                                 "size":1
-                              },
-                              {
-                                 "name":"Linderina",
+                                 "name":"Allomyces",
                                  "size":1
                               }
                            ]
-                        }
-                     ]
-                  }
-               ]
-            },
-            {
-               "name":"Basidiobolomycetes",
-               "size":1,
-               "children":[
-                  {
-                     "name":"Basidiobolales",
-                     "size":1,
-                     "children":[
+                        },
                         {
-                           "name":"Basidiobolaceae",
+                           "name":"Catenariaceae",
                            "size":1,
                            "children":[
                               {
-                                 "name":"Basidiobolus",
-                                 "size":1
-                              }
-                           ]
-                        }
-                     ]
-                  }
-               ]
-            },
-            {
-               "name":"Unassigned49",
-               "size":1,
-               "children":[
-                  {
-                     "name":"Ramicandelaberales",
-                     "size":1,
-                     "children":[
-                        {
-                           "name":"Ramicandelaberaceae",
-                           "size":1,
-                           "children":[
-                              {
-                                 "name":"Ramicandelaber",
+                                 "name":"Catenaria",
                                  "size":1
                               }
                            ]
@@ -356,38 +194,52 @@
       },
       {
          "name":"Chytridiomycota",
-         "size":3,
+         "size":4,
          "children":[
             {
-               "name":"Chytridiomycetes",
-               "size":2,
+               "name":"Neocallimastigomycetes",
+               "size":1,
+               "children":[
+                  {
+                     "name":"Neocallimastigales",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Neocallimastigaceae",
+                           "size":3,
+                           "children":[
+                              {
+                                 "name":"Anaeromyces",
+                                 "size":1
+                              },
+                              {
+                                 "name":"Neocallimastix",
+                                 "size":1
+                              },
+                              {
+                                 "name":"Piromyces",
+                                 "size":1
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Rhizophydiomycetes",
+               "size":1,
                "children":[
                   {
                      "name":"Rhizophydiales",
                      "size":1,
                      "children":[
                         {
-                           "name":"Unassigned29",
+                           "name":"Unassigned27",
                            "size":1,
                            "children":[
                               {
                                  "name":"Batrachochytrium",
-                                 "size":1
-                              }
-                           ]
-                        }
-                     ]
-                  },
-                  {
-                     "name":"Spizellomycetales",
-                     "size":1,
-                     "children":[
-                        {
-                           "name":"Spizellomycetaceae",
-                           "size":1,
-                           "children":[
-                              {
-                                 "name":"Spizellomyces",
                                  "size":1
                               }
                            ]
@@ -419,31 +271,19 @@
                ]
             },
             {
-               "name":"Neocallimastigomycetes",
+               "name":"Chytridiomycetes",
                "size":1,
                "children":[
                   {
-                     "name":"Neocallimastigales",
+                     "name":"Spizellomycetales",
                      "size":1,
                      "children":[
                         {
-                           "name":"Neocallimastigaceae",
-                           "size":4,
+                           "name":"Spizellomycetaceae",
+                           "size":1,
                            "children":[
                               {
-                                 "name":"Neocallimastix",
-                                 "size":1
-                              },
-                              {
-                                 "name":"Piromyces",
-                                 "size":1
-                              },
-                              {
-                                 "name":"Anaeromyces",
-                                 "size":1
-                              },
-                              {
-                                 "name":"Pecoramyces",
+                                 "name":"Spizellomyces",
                                  "size":1
                               }
                            ]
@@ -455,33 +295,99 @@
          ]
       },
       {
-         "name":"Blastocladiomycota",
+         "name":"Zygomycota",
          "size":1,
          "children":[
             {
-               "name":"Blastocladiomycetes",
+               "name":"Unassigned51",
                "size":1,
                "children":[
                   {
-                     "name":"Blastocladiales",
-                     "size":2,
+                     "name":"Basidiobolales",
+                     "size":1,
                      "children":[
                         {
-                           "name":"Catenariaceae",
+                           "name":"Basidiobolaceae",
                            "size":1,
                            "children":[
                               {
-                                 "name":"Catenaria",
+                                 "name":"Basidiobolus",
                                  "size":1
                               }
                            ]
-                        },
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Entomophthoromycota",
+         "size":1,
+         "children":[
+            {
+               "name":"Entomophthoromycetes",
+               "size":1,
+               "children":[
+                  {
+                     "name":"Entomophthorales",
+                     "size":1,
+                     "children":[
                         {
-                           "name":"Blastocladiaceae",
+                           "name":"Ancylistaceae",
+                           "size":2,
+                           "children":[
+                              {
+                                 "name":"Conidiobolus",
+                                 "size":1
+                              },
+                              {
+                                 "name":"Neoconidiobolus",
+                                 "size":1
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Glomeromycota",
+         "size":1,
+         "children":[
+            {
+               "name":"Glomeromycetes",
+               "size":2,
+               "children":[
+                  {
+                     "name":"Diversisporales",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Gigasporaceae",
                            "size":1,
                            "children":[
                               {
-                                 "name":"Allomyces",
+                                 "name":"Gigaspora",
+                                 "size":1
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Glomerales",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Glomeraceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Rhizophagus",
                                  "size":1
                               }
                            ]
